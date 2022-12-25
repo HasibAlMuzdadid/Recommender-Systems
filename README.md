@@ -13,3 +13,4 @@ LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
 Email: muzdadid@gmail.com
 
 ## Project Description :
+This repository contains various **Recommender System** projects which I have implemented so far. Other **Customer Segmentation** projects will also be showcased here.
