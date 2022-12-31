@@ -16,4 +16,4 @@ Email: muzdadid@gmail.com
 This repository contains various **Recommender System** projects which I have implemented so far. Other **Recommender System** projects will also be showcased here.
 
 **Language used :** Python </br>
-**Development Tools :** [Jupyter Notebook](https://jupyter.org/)
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
