@@ -17,3 +17,4 @@ This repository contains various **Recommender System** projects which I have im
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
+Platform
